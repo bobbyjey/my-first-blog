@@ -25,7 +25,7 @@ SECRET_KEY = 'sql#84z^=#f=3+(bck9=*0)u&)6m=pph%(wupb1v%(wybee)+='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://bobbyjey.pythonanywhere.com', 'pythonanywhere']
+ALLOWED_HOSTS = ['bobbyjey.pythonanywhere.com', 'pythonanywhere']
 
 
 # Application definition
